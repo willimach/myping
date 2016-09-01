@@ -1,0 +1,8 @@
+[ping]
+hosts = www.google.com, www.facebook.com, www.wikipedia.com, www.yahoo.com, www.twitter.com
+
+[FTP]
+server = willi.mach.at
+user = willi
+passwd = wi78lli
+
